@@ -1,0 +1,5 @@
+# Runtime dependency
+pygame>=2.5.0
+
+# Optional development dependency for the test suite:
+# pytest>=8.0
