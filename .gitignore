@@ -1,0 +1,21 @@
+# Python bytecode and test caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# PyInstaller output
+build/
+dist/
+app/
+
+# Local save file (created when you play)
+leaderboard.json
+
+# Personal study notes, not part of the project
+REVISION_GUIDE.md
+
+# Editor / OS files
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
